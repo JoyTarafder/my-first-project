@@ -1,8 +1,8 @@
-/*{
-    background-image: url(image/bg1.jpg);
+*{
+   /* background-image: url(image/bg1.jpg);*/
     margin: 0;
     padding: 0;
-}*/
+}
 
 #profilepic{
     border: 10px solid black;
@@ -25,14 +25,14 @@
     
 }
 .lopoo{
-    border:3px solid rgb(255, 0, 98);
+    /*border:3px solid rgb(255, 0, 98);*/
     border-radius: 15px;
     color: red;
     background-color: mediumaquamarine;
     height: 330px;
     margin: 10px;
     padding: 30px 30px;
-    width: 25%;
+    width: 27%;
     display: inline-block;
     font-family: 'Yellowtail', cursive;
 }
